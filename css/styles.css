@@ -61,11 +61,13 @@ form li {
   border-radius: 3px;
 }
 
-/* submit button styles */
-form li:last-child {
+/* submit & reset button styles */
+
+form #nested_list li {
   border: none;
   margin-bottom: 0px;
   text-align: center;
+  display: inline-block;
 }
 
 form input[type="submit"] {
