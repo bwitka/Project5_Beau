@@ -31,7 +31,7 @@ table tr:hover {
 
 /* row color styles */
 /* note: there are a total of 33 different postitions to style!!! */
-/* note: in my opinion, adding this many colors makes the document extremely unreadable. */
+/* note: in my opinion, adding 33 colors to table makes the document extremely unreadable. */
 
 .accountant {
   color: #ff4d4d;
