@@ -31,139 +31,139 @@ table tr:hover {
 
 /* row color styles */
 /* note: there are a total of 33 different postitions to style!!! */
+/* note: in my opinion, adding this many colors makes the document extremely unreadable. */
 
 .accountant {
-
+  color: #ff4d4d;
 }
 
 .ceo {
-
+  color: #40bf40;
 }
 
 .junior_technical_author {
-
+  color: #6666ff;
 }
 
 .software_engineer {
-
+  color: #999900;
 }
 
 .integration_specialist {
-
+  color: #00cccc;
 }
 
 .pre-sales_support {
-
+  color: #ff7733;
 }
 
 .sales_assistant {
-
+  color: #ff0080;
 }
 
 .senior_javascript_developer {
-
+  color: #006600;
 }
 
 .regional_director {
-
+  color: #0000ff;
 }
 
 .javascript_developer {
-
+  color: #009999;
 }
 
 .personnel_lead {
-
+  color: #994d00;
 }
 
 .customer_support {
-
+  color: #800080;
 }
 
 .support_engineer {
-
+  color: #cccc00;
 }
 
 .coo {
-
+  color: #00e6ac;
 }
 
 .team_leader {
-
+  color: #0099e6;
 }
 
 .developer {
-
+  color: #999966;
 }
 
 .system_architect {
-
+  color: #ee82ee;
 }
 
 .systems_administrator {
-
+  color: #fa8072;
 }
 
 .senior_marketing_designer {
-
+  color: #db7093;
 }
 
 .secretary {
-
+  color: #000080;
 }
 
 .office_manager {
-
+  color: #3cb371;
 }
 
 .director {
-
+  color: #81a1ca;
 }
 
 .development_lead {
-
+  color: #66cc00;
 }
 
 .junior_javascript_developer {
-
+  color: #669999;
 }
 
 .post-sales_support {
-
+  color: #ffd700;
 }
 
 .marketing_designer {
-
+  color: #8d883f;
 }
 
 .cfo {
-
+  color: #3366ff;
 }
 
 .technical_author {
-
+  color: #ff00ff;
 }
 
 .support_lead {
-
+  color: #00e699;
 }
 
 .data_coordinator {
-
+  color: #808080;
 }
 
 .regional_marketing {
-
+  color: #a64dff;
 }
 
 .financial_controller {
-
+  color: #4d0000;
 }
 
 .cmo {
-
+  color: #ff1493;
 }
-
 
 
 /*** FORM STYLES ***/
